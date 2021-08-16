@@ -4,7 +4,7 @@ asgiref==3.4
 pytz==2021.1
 sqlparse==0.4.1
 discord.py==1.7
-uvicorn==0.14.0
+uvicorn==0.15.0
 uvloop==0.15.2
 httptools==0.2.0
 django-oauth-toolkit==1.5.0
